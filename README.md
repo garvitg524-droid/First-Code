@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001f,50:5b21b6,100:00d4ff&height=190&section=header&text=FIRST%20CODE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=A%20small%20space%20for%20learning%2C%20experimenting%20and%20writing%20code&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:FFF1D6,35:C8B8FF,70:9EDCF2,100:B9E9D3&height=210&section=header&text=MY%20DEVELOPER%20SPACE&fontSize=34&fontColor=39405A&animation=twinkling&fontAlignY=48" width="100%" alt="MY DEVELOPER SPACE pastel 3D header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=A%20small%20space%20for%20learning%2C%20experimenting%20and%20writing%20code;Building+projects+and+learning+every+day;Explore+the+code+below+%E2%9C%A8" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=19&pause=1200&color=7C70B8&center=true&vCenter=true&width=650&lines=Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Exploring;A%20little%20curiosity%2C%20a%20lot%20of%20building " alt="Animated subtitle" />
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=garvitg524-droid&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+
+<table><tr><td align="center"><b>🧠 MACHINE LEARNING</b><br/>Predictive models & experiments</td><td align="center"><b>🐍 PYTHON</b><br/>Learning through code</td><td align="center"><b>🚀 BUILDER MODE</b><br/>Small steps, real projects</td></tr></table>
 
 </div>
 
